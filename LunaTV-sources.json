@@ -183,14 +183,5 @@
       "isAdult": true
     }
   ],
-  "liveSources": [
-    {
-      "name": "国内电视 · IPTV-org",
-      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u"
-    },
-    {
-      "name": "港澳台及海外 · YueChan",
-      "url": "https://raw.githubusercontent.com/YueChan/Live/main/GNTV.m3u"
-    }
-  ]
+  "liveSources": []
 }
